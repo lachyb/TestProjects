@@ -17,4 +17,5 @@ class TestFile(object):
 if __name__ == '__main__':
     # instantiate our object when the program is run
     testObject = TestFile()
+    # run a method
     testObject.firstTestMethod()
